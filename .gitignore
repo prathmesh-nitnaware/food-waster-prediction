@@ -1,0 +1,14 @@
+# Virtual environment
+venv/
+.env
+
+# Data files
+*.csv
+*.db
+*.pkl
+__pycache__/
+
+# IDE files
+.idea/
+.vscode/
+*.swp
